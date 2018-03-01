@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string-array name="serviceOptions">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+    </string-array>
+    <string-array name="clientOptions">
+        <item>  </item>
+        <item>Client 1</item>
+        <item>Client 2</item>
+        <item>Client 3</item>
+    </string-array>
+</resources>
